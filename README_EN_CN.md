@@ -16,12 +16,12 @@ ISBN-13: 9781718503922
    用于分类的密集神经网络  
    Introduces single- and multi-layer perceptrons for classification tasks (e.g., MNIST digit recognition).  
    介绍用于分类任务（如MNIST手写数字识别）的单层和多层感知机。  
-
+   
 2. [**Dense Neural Networks for Regression**](https://github.com/DeepTrackAI/DeepLearningCrashCourse/tree/main/Ch02_DNN_regression)  
    用于回归的密集神经网络  
    Explores regression problems and digital twins, focusing on continuous-value prediction with multi-layer networks.  
    探索回归问题和数字孪生，关注于使用多层网络进行连续值预测。  
-
+   
 3. [**Convolutional Neural Networks for Image Analysis**](https://github.com/DeepTrackAI/DeepLearningCrashCourse/tree/main/Ch03_CNN)  
    用于图像分析的卷积神经网络  
    Covers convolutional neural networks (CNNs) and their application to tasks such as image classification, localization, style transfer, and DeepDream.  
@@ -31,7 +31,7 @@ ISBN-13: 9781718503922
    用于潜在空间操作的编码器-解码器  
    Focuses on autoencoders, variational autoencoders, Wasserstein autoencoders, and anomaly detection, enabling data compression and generation.  
    关注于自动编码器、变分自动编码器、Wasserstein自动编码器以及异常检测，实现数据压缩与生成。  
-
+   
 5. [**U-Nets for Image Transformation**](https://github.com/DeepTrackAI/DeepLearningCrashCourse/tree/main/Ch05_UNet)  
    用于图像转换的U-Net  
    Discusses U-Net architectures for image segmentation, cell counting, and various biomedical imaging applications.  
