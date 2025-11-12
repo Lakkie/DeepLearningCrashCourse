@@ -8,8 +8,8 @@ ISBN-13: 9781718503922
 
 ---
 
-*Deep Learning Crash Course* is a comprehensive and up-to-date guide that takes you from simple neural networks all the way to cutting-edge deep learning architectures-no advanced math and programming required, just a basic knowledge of programming. From CNNs and GANs to Transformers and Diffusion Models, each chapter brings you hands-on, real-world projects so you can build and truly master the latest AI breakthroughs. Whether you’re an engineer, scientist, or just curious about AI, you’ll discover how to implement, optimize, and innovate with the full spectrum of modern deep learning techniques.
-《深度学习速成课程》是一本全面且前沿的指南，带你从简单神经网络直达尖端深度学习架构——无需高等数学或编程基础，仅需基础编程知识。从卷积神经网络（CNN）、生成对抗网络（GAN）到Transformer和扩散模型，每章都提供实践性项目，助你构建并真正掌握最新AI突破技术。无论你是工程师、科研人员还是AI爱好者，都将学会如何运用、优化并创新现代深度学习全领域技术。
+*Deep Learning Crash Course* is a comprehensive and up-to-date guide that takes you from simple neural networks all the way to cutting-edge deep learning architectures-no advanced math and programming required, just a basic knowledge of programming. From CNNs and GANs to Transformers and Diffusion Models, each chapter brings you hands-on, real-world projects so you can build and truly master the latest AI breakthroughs. Whether you’re an engineer, scientist, or just curious about AI, you’ll discover how to implement, optimize, and innovate with the full spectrum of modern deep learning techniques.  
+《深度学习速成课程》是一本全面且前沿的指南，带你从简单神经网络直达尖端深度学习架构——无需高等数学或编程基础，仅需基础编程知识。从卷积神经网络（CNN）、生成对抗网络（GAN）到Transformer和扩散模型，每章都提供实践性项目，助你构建并真正掌握最新AI突破技术。无论你是工程师、科研人员还是AI爱好者，都将学会如何运用、优化并创新现代深度学习全领域技术。  
 ---
 
 1. [**Dense Neural Networks for Classification**](https://github.com/DeepTrackAI/DeepLearningCrashCourse/tree/main/Ch01_DNN_classification)  
