@@ -37,7 +37,7 @@ ISBN-13: 9781718503922
    Discusses U-Net architectures for image segmentation, cell counting, and various biomedical imaging applications.  
    讨论用于图像分割、细胞计数以及各种生物医学成像应用的U-Net架构。  
    
-6. [**Self-Supervised Learning to Exploit Symmetries**](https://github.com/DeepTrackAI/DeepLearningCrashCourse/tree/main/Ch06_SelfSupervised) 
+6. [**Self-Supervised Learning to Exploit Symmetries**](https://github.com/DeepTrackAI/DeepLearningCrashCourse/tree/main/Ch06_SelfSupervised)  
    利用（上下文）对称性的自监督学习  
    Explains how to use unlabeled data and the symmetries symmetries of a problem for improved model performance with an application in particle localization.  
    解释如何利用未标记数据和问题的对称性来提高模型性能，并以粒子定位为例进行应用。  
